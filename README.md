@@ -5,14 +5,15 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 ## 👋 About Me  
-Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable, high-performance applications.  
+Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable, high-performance web applications.  
 
-💡 Strong in **React, Next.js, Node.js & distributed system fundamentals**  
-⚡ Passionate about **performance optimization, clean architecture & problem solving at scale**  
-🎯 Interested in building **products used by thousands of users**  
-🎮 Experience with **real-time systems & rendering (PixiJS)**  
+💡 Strong foundation in **JavaScript (ES6+), React, Next.js, Node.js & distributed systems**  
+🎨 Skilled in building **responsive, pixel-perfect user interfaces using modern CSS techniques**  
+⚡ Passionate about **performance engineering, scalable architecture & solving complex problems at scale**  
+🎯 Driven to build **high-impact products used by thousands of users**  
+🎮 Experienced in **real-time systems & high-performance rendering (PixiJS)**  
 
-> I engineer systems that are **scalable, efficient, and production-ready**.
+> I engineer systems that are **fast, scalable, and production-ready**.
 
 ---
 
