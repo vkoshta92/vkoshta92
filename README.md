@@ -1,74 +1,106 @@
 ## Hi there 👋
 
-# 🌟 Vishnu Singh | Full Stack Engineer  
+# 🚀 Vishnu Singh | Full Stack Engineer (React • Node.js)  
+
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 ## 👋 About Me  
-Hi 👋, I'm **Vishnu Singh**  
+Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable, high-performance web applications.  
 
-💻 Full Stack Developer passionate about building modern web applications  
-🚀 Skilled in **JavaScript, React, Node.js & MongoDB**  
-📈 Focused on writing **clean, scalable, and maintainable code**  
-🎯 Strong interest in **performance optimization & system design**  
+💡 Strong in **React, Next.js, Node.js & system design fundamentals**  
+⚡ Passionate about **performance optimization, clean architecture & real-world problem solving**  
+🎮 Additionally experienced in **interactive systems & game development (PixiJS)**  
 
----
-
-## 🚀 Core Skills  
-
-### 🌐 Full Stack Development  
-- ⚛️ React, Next.js, TypeScript  
-- 🧠 Node.js, Express, REST APIs  
-- 🗄️ MongoDB, Redis  
-- 🔐 Authentication (JWT)  
-
-### 🎮 Additional Skills  
-- 🎰 PixiJS (Slot Games, Canvas/WebGL)  
-- ⚡ Animations & Performance Optimization  
+> I build systems that are not just functional — but **fast, scalable, and production-ready**.
 
 ---
 
-## 💻 Tech Stack  
+## 🧠 Core Engineering Focus  
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### 🌐 Full Stack Development (Primary)  
+
+- ⚛️ Build scalable frontend using **React, Next.js & TypeScript**  
+- 🧠 Architect backend systems with **Node.js, Express & MongoDB**  
+- 🔐 Design secure authentication (**JWT, OAuth**)  
+- ⚡ Optimize **performance (lazy loading, caching, code splitting)**  
+- 🔄 Develop **REST APIs & real-time systems (Socket.io)**  
+- 📦 Handle **state management (Redux, Context API)**  
 
 ---
 
-## 📊 GitHub Stats  
+### ⚡ Engineering Mindset  
 
-![](https://github-readme-stats.vercel.app/api?username=vkoshta92&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+- 🧩 Write **clean, maintainable & modular code**  
+- 📈 Focus on **scalability & system design thinking**  
+- 🐞 Debug complex issues & improve performance bottlenecks  
+- 🚀 Build with **production-level standards**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkoshta92&theme=tokyonight&layout=compact)
+---
+
+### 🎮 Additional Strength (Interactive Systems)  
+
+- 🎰 Built **high-performance slot games using PixiJS (Canvas/WebGL)**  
+- 🎲 Implemented **complex logic (reels, randomness, state management)**  
+- ⚡ Focus on **rendering performance & smooth animations (GSAP)**  
+
+> Strengthens my understanding of **real-time systems & performance engineering**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Frontend  
+`React` `Next.js` `TypeScript` `Redux` `TailwindCSS`
+
+### ⚙️ Backend  
+`Node.js` `Express.js` `MongoDB` `Redis` `REST APIs`
+
+### 🎮 Additional  
+`PixiJS` `GSAP` `Canvas/WebGL`
+
+### ☁️ Tools & Cloud  
+`AWS` `Firebase` `Vercel` `Netlify` `Git` `Webpack` `Vite`
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vkoshta92&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoshta92&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🧩 Projects  
 
-- 📊 Leave Management System  
-- 💬 Real-time Chat App (Socket.io)  
-- 🛒 Full Stack Web Apps  
-- 🎰 Slot Games (PixiJS)  
+### 🌐 Full Stack Applications  
+- 📊 Leave Management System (**scalable architecture**)  
+- 💬 Real-time Chat App (**Socket.io + Node.js**)  
+- 🛒 E-commerce Platform (**full-stack**)  
+
+### 🎮 Interactive Systems  
+- 🎰 Slot Game (**PixiJS + GSAP + real-time logic**)  
 
 ---
 
-## 🎯 Goals  
+## 🎯 Current Goals  
+- 💼 Join a **Product-Based Company (12+ LPA)**  
+- 🧠 Master **System Design & Backend Scalability**  
+- 🚀 Build **impactful products used by thousands of users**
 
-- 💼 Crack **Product-Based Company (12+ LPA)**  
-- 🧠 Improve **System Design & Backend Scalability**  
-- 🚀 Build impactful real-world applications  
+---
+
+## 🌐 Let's Connect  
+
+- 📧 Email: vkoshta92@gmail.com  
+- 💼 Open to **Full-time & Freelance opportunities**
 
 ---
 
 <p align="center">
-  🚀 *Building scalable web applications with real-world impact*  
+  🚀 *Engineering scalable systems with real-world impact*  
 </p>
