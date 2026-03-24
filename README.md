@@ -67,7 +67,7 @@ Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vkoshta92&show_icons=true&theme=tokyonight" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vkoshta92&theme=tokyonight" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=vkoshta92&theme=tokyonight)
 </p>
 
 ---
@@ -93,7 +93,7 @@ Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable
 
 ## 🌐 Let's Connect  
 
-- 📧 Email: *Add your email here*  
+- 📧 Email: vkoshta92@gmail.com
 - 💼 Open to **Full-time & Freelance opportunities**
 
 ---
