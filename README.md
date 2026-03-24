@@ -5,13 +5,14 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 ## 👋 About Me  
-Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable, high-performance web applications.  
+Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable, high-performance applications.  
 
-💡 Strong in **React, Next.js, Node.js & system design fundamentals**  
-⚡ Passionate about **performance optimization, clean architecture & real-world problem solving**  
-🎮 Additionally experienced in **interactive systems & game development (PixiJS)**  
+💡 Strong in **React, Next.js, Node.js & distributed system fundamentals**  
+⚡ Passionate about **performance optimization, clean architecture & problem solving at scale**  
+🎯 Interested in building **products used by thousands of users**  
+🎮 Experience with **real-time systems & rendering (PixiJS)**  
 
-> I build systems that are not just functional — but **fast, scalable, and production-ready**.
+> I engineer systems that are **scalable, efficient, and production-ready**.
 
 ---
 
@@ -19,31 +20,32 @@ Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable
 
 ### 🌐 Full Stack Development (Primary)  
 
-- ⚛️ Build scalable frontend using **React, Next.js & TypeScript**  
-- 🧠 Architect backend systems with **Node.js, Express & MongoDB**  
-- 🔐 Design secure authentication (**JWT, OAuth**)  
-- ⚡ Optimize **performance (lazy loading, caching, code splitting)**  
-- 🔄 Develop **REST APIs & real-time systems (Socket.io)**  
-- 📦 Handle **state management (Redux, Context API)**  
+- ⚛️ Build **scalable frontend systems** using React, Next.js & TypeScript  
+- 🧠 Design **robust backend architectures** with Node.js, Express & MongoDB  
+- 🔐 Implement **secure and reliable authentication systems (JWT, OAuth)**  
+- ⚡ Optimize **performance (code splitting, caching, lazy loading)**  
+- 🔄 Develop **high-performance APIs & real-time systems (Socket.io)**  
+- 📦 Manage **complex state & data flow (Redux, Context API)**  
 
 ---
 
-### ⚡ Engineering Mindset  
+### 🏗️ System Thinking & Engineering  
 
-- 🧩 Write **clean, maintainable & modular code**  
-- 📈 Focus on **scalability & system design thinking**  
-- 🐞 Debug complex issues & improve performance bottlenecks  
-- 🚀 Build with **production-level standards**
+- 📈 Design systems with **scalability & maintainability in mind**  
+- ⚡ Identify and fix **performance bottlenecks**  
+- 🧩 Write **clean, modular & reusable code**  
+- 🔍 Strong debugging & problem-solving skills  
+- 🚀 Follow **production-grade engineering practices**  
 
 ---
 
 ### 🎮 Additional Strength (Interactive Systems)  
 
 - 🎰 Built **high-performance slot games using PixiJS (Canvas/WebGL)**  
-- 🎲 Implemented **complex logic (reels, randomness, state management)**  
-- ⚡ Focus on **rendering performance & smooth animations (GSAP)**  
+- 🎲 Designed **real-time game logic & state systems**  
+- ⚡ Optimized **rendering performance & animations (GSAP)**  
 
-> Strengthens my understanding of **real-time systems & performance engineering**
+> Enhances expertise in **performance engineering & real-time applications**
 
 ---
 
@@ -78,29 +80,38 @@ Hi, I'm **Vishnu Singh**, a **Full Stack Engineer** focused on building scalable
 ## 🧩 Projects  
 
 ### 🌐 Full Stack Applications  
-- 📊 Leave Management System (**scalable architecture**)  
-- 💬 Real-time Chat App (**Socket.io + Node.js**)  
-- 🛒 E-commerce Platform (**full-stack**)  
+- 📊 Leave Management System (**modular architecture & scalable design**)  
+- 💬 Real-time Chat App (**low-latency communication using Socket.io**)  
+- 🛒 E-commerce Platform (**full-stack system with optimized performance**)  
 
 ### 🎮 Interactive Systems  
-- 🎰 Slot Game (**PixiJS + GSAP + real-time logic**)  
+- 🎰 Slot Game (**PixiJS + GSAP + real-time rendering pipeline**)  
+
+---
+
+## 📈 Impact & Engineering Approach  
+
+- ⚡ Improved application performance using **lazy loading & optimization techniques**  
+- 🧠 Designed **modular and reusable components** for scalability  
+- 🔄 Built **real-time features** with efficient data handling  
+- 🎯 Focus on delivering **production-quality code**
 
 ---
 
 ## 🎯 Current Goals  
-- 💼 Join a **Product-Based Company (12+ LPA)**  
-- 🧠 Master **System Design & Backend Scalability**  
-- 🚀 Build **impactful products used by thousands of users**
+- 💼 Join a **top product-based company (Google / Microsoft level)**  
+- 🧠 Master **system design, scalability & backend architecture**  
+- 🚀 Build **high-impact products at scale**
 
 ---
 
 ## 🌐 Let's Connect  
 
-- 📧 Email: vkoshta92@gmail.com  
+- 📧 Email: vkoshta92@gmail.com
 - 💼 Open to **Full-time & Freelance opportunities**
 
 ---
 
 <p align="center">
-  🚀 *Engineering scalable systems with real-world impact*  
+  🚀 *Building scalable systems for real-world impact*  
 </p>
